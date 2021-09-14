@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+	</head>
+	<body>
+
+		<h1 title="Ceci est une balise de titre de niveau 1" style="color:orange;background : black;" onclick="this.style.color = 'red';" ondblclick="this.style.color = 'orange';">Définitions</h1>
+		<h2>Définitions</h2>
+		<h3>Définitions</h3>
+		<h4>Définitions</h4>
+		<h5>Définitions</h5>
+		<h6>Définitions</h6>
+
+		<p>La page affiché et codé par tout le code entre &lt;body&gt; et &lt;/body&gt;.</p>
+
+
+		<h2>Les deux types de balises.</h2>
+        <p>Il existe deux types de balises :</p>
+        
+        <ol>
+        	<li>les balises usuelles encadrent le code, par exemple : &lt;p&gt; et &lt;/p&gt; </li>
+        	<li>les balises ditent orphelines n'encadrent aucun code ; elles se ferment elles memes. Par exemple : &lt;br/&gt; abréviation de <i>break row;</i> &lt;hr/&gt; abréviation de <i>Horizontal row;</i></li>
+            
+        </ol>
+        
+        
+        
+        <br/><br/><br/><br/><br/><br/>
+        <hr/>
+        <h2>TP</h2>
+        <h3>Balises a tester</h3>
+        
+        <ul>
+        	<li>em</li>
+            <li>b</li>
+            <li>strong</li>
+            <li>u</li>
+            <li>mark</li>
+            <li>del</li>
+		
+    	</ul> 
+	</body>
+</html>
