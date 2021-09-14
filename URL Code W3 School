@@ -6,7 +6,7 @@
 	<body>
 
 		<h1 title="Ceci est une balise de titre de niveau 1" style="color:orange;background : black;" onclick="this.style.color = 'red';" ondblclick="this.style.color = 'orange';">Définitions</h1>
-		<h2>Définitions</h2>
+		<h2 onmouseover="this.style.fontSize = '300%';" onmouseout= "this.style.fontSize = '150%';">Définitions</h2> 
 		<h3>Définitions</h3>
 		<h4>Définitions</h4>
 		<h5>Définitions</h5>
