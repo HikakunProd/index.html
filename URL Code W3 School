@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+theme: jekyll-theme-hacker
 <html>
 	<head>
 		<title>Page Title</title>
